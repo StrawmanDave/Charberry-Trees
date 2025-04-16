@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CharBerryTree.Main/1.0.0": {
+        "dependencies": {
+          "CharBerryTree": "1.0.0"
+        },
+        "runtime": {
+          "CharBerryTree.Main.dll": {}
+        }
+      },
+      "CharBerryTree/1.0.0": {
+        "runtime": {
+          "CharBerryTree.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharBerryTree.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CharBerryTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

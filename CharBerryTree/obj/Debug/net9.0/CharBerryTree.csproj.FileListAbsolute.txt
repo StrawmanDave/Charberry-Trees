@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\bin\Debug\net9.0\CharBerryTree.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\bin\Debug\net9.0\CharBerryTree.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\bin\Debug\net9.0\CharBerryTree.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\CharBerryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\CharBerryTree.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\CharBerryTree.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\CharBerryTree.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\CharBerryTree.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\CharBerryTree.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\refint\CharBerryTree.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\CharBerryTree.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Charberry-Trees\CharBerryTree\obj\Debug\net9.0\ref\CharBerryTree.dll
